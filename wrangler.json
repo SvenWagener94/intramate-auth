@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "intramate-auth",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b84dbfa8-17c8-406a-8d47-96be8718552c",
+			"database_name": "sitemate-2026-04-08-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
